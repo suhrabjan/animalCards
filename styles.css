@@ -5,10 +5,7 @@
 #container {
     border: solid 1.5px #C0C0C0;
     width: 385px;
-    padding-left: 10px;
-    padding-bottom: 10px;
-    padding-right: 1px;
-    padding-top: 1px;
+    padding: 1em 10px;
     box-shadow: 5px 10px 10px 5px #ccc;
     font-family: arial;
 }
