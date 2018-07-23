@@ -15,9 +15,8 @@
 }
 
 img {
-    width: 370px;
-    padding-left: 2px;
-    padding-bottom: 7px;
+    width: 100%;
+    padding: 2px 5px 10px 5px;
 }
 
 ul {
