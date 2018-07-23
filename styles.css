@@ -31,9 +31,8 @@ ul {
 
 .animal-info {
     border: solid 1.5px #C0C0C0;
-    width: 350px;
-    padding-left: 10px;
-    padding-right: 10px;
+    width: 100%;
+    padding: 10px;
 }
 
 h1 {
